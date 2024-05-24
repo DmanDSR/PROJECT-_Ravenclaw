@@ -2,6 +2,9 @@
 
 ### By Raynard Flores, Rosemary Medina, Gian F. Villafane, Maya Wilson-Fernandez, Alex Lopez, Dylan Sedeno
 
+[Presentation](https://docs.google.com/presentation/d/1RDP-3FklcgTDF08YpSDc7ICafAH75QFRmdAsdMGj7cE/edit?usp=sharing)
+[Trello](https://docs.google.com/presentation/d/1RDP-3FklcgTDF08YpSDc7ICafAH75QFRmdAsdMGj7cE/edit?usp=sharing)
+
 ## Project Overview
 
 Despite being the Hogwarts house renowned for the intellect and wit of its students and alumni, Ravenclaw is rarely referenced in the Harry Potter series, in both books and films.
