@@ -17,4 +17,5 @@ Despite being the Hogwarts house renowned for the intellect and wit of its stude
 - There are fewer Ravenclaw characters than in any other house. 
 
 
-In this mini project, you will dive into the world of SQL by creating and populating a database of your own and then extracting meaningful insights through SQL using queries and Python visualization techniques. You will use the Harry Potter dataset and an API to gather data for the project.
+![image](https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/b84fcea2-8ee6-4ba8-a261-e4028ba77e8d)
+
