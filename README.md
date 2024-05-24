@@ -66,9 +66,11 @@ The blood status column had a variety of inputs and when changing them, the func
 
 <img width="315" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/74a23b60-e2a0-4fb0-b108-c88c963e7e9c">
 
-<img width="264" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/0cb6b8a7-19e8-41d6-9654-a7c765645351">
+<img width="246" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/dc751521-d030-44eb-9867-b3f185326652">
 
-<img width="255" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/82df70a5-8c68-4be4-86c7-c6849cff804e">
+<img width="234" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/a1102bda-0de4-4d16-a434-d741f96a0a45">
+
+<img width="243" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/19380f9b-1e9d-4d14-8d37-c9a9f65eef03">
 
 
 <img width="350" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/feef1de2-a7d7-4636-9a26-1fb688e1b015">
