@@ -1,4 +1,4 @@
-# PROJECT-_Ravenclaw
+# PROJECT_Ravenclaw
 
 ### By Raynard Flores, Rosemary Medina, Gian F. Villafane, Maya Wilson-Fernandez, Alex Lopez, Dylan Sedeno
 
