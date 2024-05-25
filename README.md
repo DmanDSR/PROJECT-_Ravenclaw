@@ -2,8 +2,6 @@
 
 ### By Raynard Flores, Rosemary Medina, Gian F. Villafane, Maya Wilson-Fernandez, Alex Lopez, Dylan Sedeno
 
-[Presentation](https://docs.google.com/presentation/d/1RDP-3FklcgTDF08YpSDc7ICafAH75QFRmdAsdMGj7cE/edit?usp=sharing)
-[Trello](https://docs.google.com/presentation/d/1RDP-3FklcgTDF08YpSDc7ICafAH75QFRmdAsdMGj7cE/edit?usp=sharing)
 
 ## Project Overview
 
@@ -44,7 +42,7 @@ Challenges:
 
 Inconsistencies in Labeling:
 
-When cleaning the dataset, there were many instances where characters were “Pureblood or Halfblood” or “Muggleborn or Halfblood”. Many were unknown, and ultimately this may point to the insight that blood status shouldn’t be a label that matters in any consequential way. 
+
 
 <img width="387" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/c4655a10-cef6-4e99-93c8-df655abde162">
 
@@ -59,23 +57,15 @@ Data Cleaning:
 
 ## Issues
 
-The blood status column had a variety of inputs and when changing them, the function was only applied to certain instances. With the help of Erin, we managed to see the true value of each individual cell and merge the values into what we needed. This issue happened throughout all columns. 
 
 ## VISUALIZATION & KEY INSIGHTS
 
 
 <img width="315" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/74a23b60-e2a0-4fb0-b108-c88c963e7e9c">
 
-<img width="246" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/dc751521-d030-44eb-9867-b3f185326652">
-
-<img width="234" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/a1102bda-0de4-4d16-a434-d741f96a0a45">
-
-<img width="243" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/19380f9b-1e9d-4d14-8d37-c9a9f65eef03">
 
 
 <img width="350" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/feef1de2-a7d7-4636-9a26-1fb688e1b015">
-
-<img width="355" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/96d4600b-028b-4024-962d-aa3fd8699a84">
 
 
 
@@ -105,10 +95,6 @@ Ravenclaw has the most even gender balance of all the Houses.
 
 
   
-
-
-
-
 
 
 
