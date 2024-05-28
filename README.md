@@ -63,10 +63,17 @@ Data Cleaning:
 
 <img width="315" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/74a23b60-e2a0-4fb0-b108-c88c963e7e9c">
 
+<img width="158" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/bb2e5ad9-be22-4f42-9cf2-36a6c632f505">
 
+<img width="146" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/bd2127af-40c0-49d1-ac8f-c5054ba9e9ab">
+
+<img width="158" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/e6da8d9b-10be-4f60-b73a-d84545847aee">
 
 <img width="350" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/feef1de2-a7d7-4636-9a26-1fb688e1b015">
 
+<img width="328" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/5894aaf6-3d47-4042-b66a-687e5b343f39">
+
+<img width="266" alt="image" src="https://github.com/DmanDSR/PROJECT_Ravenclaw/assets/48893423/2a6ca6f2-51cb-4adb-89ec-55c1c51eb179">
 
 
 ## FINDINGS
